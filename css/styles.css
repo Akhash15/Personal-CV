@@ -1,0 +1,20 @@
+body {
+    background-color: #E8F9FD;
+  }
+  h1 {
+      color: #79DAE8;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+  h3 {
+      color: #0AA1DD;
+  }
+  hr {
+    /* background-color: white; */
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    /* height: 0px; */
+    width: 5%;
+  }
+  
